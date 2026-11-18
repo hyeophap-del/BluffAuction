@@ -1,0 +1,263 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1218f24ac22c9a94caae1e4733cd505f, type: 3}
+  m_Name: ArtLibrary
+  m_EditorClassIdentifier: BluffAuction.Runtime::BluffAuction.Art.ArtLibrary
+  Materials:
+  - Name: Floor
+    Material: {fileID: 2100000, guid: 8637c2346e2f495499d59e35d016dde9, type: 2}
+  - Name: Wallpaper
+    Material: {fileID: 2100000, guid: 09300677c2aab2744b59147906dafbd8, type: 2}
+  - Name: Mahogany
+    Material: {fileID: 2100000, guid: c593516d62d5aae449d1822b2ca32237, type: 2}
+  - Name: DarkWood
+    Material: {fileID: 2100000, guid: b5acf2c163b54994ca4b98b8664055de, type: 2}
+  - Name: Marble
+    Material: {fileID: 2100000, guid: 752c093b7f1fd964fab2f3db8302b260, type: 2}
+  - Name: MarbleDark
+    Material: {fileID: 2100000, guid: 2db2c9c61424b9b41a2d8e6113c5d819, type: 2}
+  - Name: Plaster
+    Material: {fileID: 2100000, guid: f2ad6281067327b4e8ad038b67b38e91, type: 2}
+  - Name: Ceiling
+    Material: {fileID: 2100000, guid: 7897088f226eb664097f6d4fbbb8f9dc, type: 2}
+  - Name: Velvet
+    Material: {fileID: 2100000, guid: 31c3e795f3dfd034abfefc293f16bc86, type: 2}
+  - Name: VelvetPlain
+    Material: {fileID: 2100000, guid: af6dc009aeb20d14b9f07393074e0f87, type: 2}
+  - Name: Felt
+    Material: {fileID: 2100000, guid: 5ace85548e883f24cb550d4bd56e5693, type: 2}
+  - Name: Rug
+    Material: {fileID: 2100000, guid: 28e425ce40607e6418291a802515801d, type: 2}
+  - Name: NightWindow
+    Material: {fileID: 2100000, guid: 23e42f6b1dfd2b846a144427b1a2fe55, type: 2}
+  - Name: Glass
+    Material: {fileID: 2100000, guid: 2a85a8768940b1d4c8d5fca9c88a1c1c, type: 2}
+  - Name: CandleWax
+    Material: {fileID: 2100000, guid: feab2c677a5e2574fa3de570fe955950, type: 2}
+  - Name: Flame
+    Material: {fileID: 2100000, guid: 30de9fcb15e032d4bba06413179d39c4, type: 2}
+  - Name: WarmGlow
+    Material: {fileID: 2100000, guid: 7f2424d91a20c574e9f90abe10f4747a, type: 2}
+  - Name: Black
+    Material: {fileID: 2100000, guid: 28efff6762e8f7b418d3c4a49c5f058d, type: 2}
+  - Name: BlackGloss
+    Material: {fileID: 2100000, guid: 91cc453ec6c94614e99c4226d8ca6e2b, type: 2}
+  - Name: Gold
+    Material: {fileID: 2100000, guid: 9521b39dccc8bb1418a28b16a99f2804, type: 2}
+  - Name: GoldDark
+    Material: {fileID: 2100000, guid: 7912d3637a15a794cab3df6e1c77d5de, type: 2}
+  - Name: Brass
+    Material: {fileID: 2100000, guid: a5573677ea3dc864b85f1eafc96f9c05, type: 2}
+  - Name: Silver
+    Material: {fileID: 2100000, guid: 498efcd0cd3267d42b6f7b9118ec2bb9, type: 2}
+  - Name: Iron
+    Material: {fileID: 2100000, guid: 11a7bc40ba6268746bb65c6174ee8f4c, type: 2}
+  - Name: Terracotta
+    Material: {fileID: 2100000, guid: d22711f16fd1b884cbcf4217cc904c18, type: 2}
+  - Name: TerracottaDark
+    Material: {fileID: 2100000, guid: 1c4b38aad3e431b4e9260f306305d7b0, type: 2}
+  - Name: Celadon
+    Material: {fileID: 2100000, guid: 6e0d4a0daa8820049bdbcef2390c9561, type: 2}
+  - Name: Porcelain
+    Material: {fileID: 2100000, guid: 9207f1064ac038f46a3315826d302164, type: 2}
+  - Name: PorcelainBlue
+    Material: {fileID: 2100000, guid: 2481338d4a1ee614ebe9ade17eb24848, type: 2}
+  - Name: Sapphire
+    Material: {fileID: 2100000, guid: a0519d08436a2c54e99506cf2b275059, type: 2}
+  - Name: Ruby
+    Material: {fileID: 2100000, guid: 62b6ad31dd69b4649ad95ff6a58aa094, type: 2}
+  - Name: Emerald
+    Material: {fileID: 2100000, guid: 9dd2b715232324d47ac4e28c881da951, type: 2}
+  - Name: PinkGem
+    Material: {fileID: 2100000, guid: 5ea602ac787b8104a927195a352eb1b2, type: 2}
+  - Name: Diamond
+    Material: {fileID: 2100000, guid: 65b431f68d8e3954091cdb63fdaeb566, type: 2}
+  - Name: Pearl
+    Material: {fileID: 2100000, guid: 781b709bb1f80c14a80fdef7bea9c374, type: 2}
+  - Name: Leather
+    Material: {fileID: 2100000, guid: fa96661209208f44daadcd901343f2a0, type: 2}
+  - Name: LeatherRed
+    Material: {fileID: 2100000, guid: 7a63c99aeb7799645a338fa265fcf6f9, type: 2}
+  - Name: LeatherGreen
+    Material: {fileID: 2100000, guid: 066c5bcf2c2abdc4c81f1c04a71c4c01, type: 2}
+  - Name: Pages
+    Material: {fileID: 2100000, guid: 81d0192cca381c740a6f8769fb2bb5b6, type: 2}
+  - Name: ClockFace
+    Material: {fileID: 2100000, guid: 408118ef4dea68d4d92e85cb3e2b4190, type: 2}
+  - Name: Globe
+    Material: {fileID: 2100000, guid: 031dd685d1aed4343ad8fc284a5140fa, type: 2}
+  - Name: CrystalBall
+    Material: {fileID: 2100000, guid: c1d981c297f2c844bb9f2f1181ce7a6e, type: 2}
+  - Name: Skin
+    Material: {fileID: 2100000, guid: 9dcffcc520feef94db744e0c401270d1, type: 2}
+  - Name: Cloth
+    Material: {fileID: 2100000, guid: 9c41cac12ac48ad498d17ad8a36ed34a, type: 2}
+  - Name: Satin
+    Material: {fileID: 2100000, guid: 860764b044afc8646885928c8313784a, type: 2}
+  - Name: VelvetCloth
+    Material: {fileID: 2100000, guid: cc6ea3c19a0efda4e96f7fcf3bc76e55, type: 2}
+  - Name: Lacquer
+    Material: {fileID: 2100000, guid: b275713d9e9ab244e8797f7b0c5647ab, type: 2}
+  - Name: Hair
+    Material: {fileID: 2100000, guid: 351da1a48f7de324abf66330b3c843e3, type: 2}
+  - Name: Feather
+    Material: {fileID: 2100000, guid: 1251279014cecf4448527b0b11644782, type: 2}
+  - Name: EyeWhite
+    Material: {fileID: 2100000, guid: ec279edf86f8035459b3d39f423fa9e3, type: 2}
+  - Name: Pupil
+    Material: {fileID: 2100000, guid: 137f8356f1a09454a802ba42f86bf6ca, type: 2}
+  - Name: Glow
+    Material: {fileID: 2100000, guid: 8da1f85154b300b439f5042b6bb0c8f3, type: 2}
+  - Name: Paint
+    Material: {fileID: 2100000, guid: 0d348279d6ef3ad409eba5a81f14df86, type: 2}
+  - Name: Painting0
+    Material: {fileID: 2100000, guid: a6a52ace396c5d847b9a4bf25c284cdd, type: 2}
+  - Name: Painting1
+    Material: {fileID: 2100000, guid: 63fbc68dbf6929245b9e4cf441280687, type: 2}
+  - Name: Painting2
+    Material: {fileID: 2100000, guid: 260f640e6b6aabe4bad9359ef44ae0e4, type: 2}
+  - Name: Painting3
+    Material: {fileID: 2100000, guid: 41d4e8e1c06f30642baed55c1c285603, type: 2}
+  Textures:
+  - Name: soft_dot
+    Texture: {fileID: 2800000, guid: aaed928e30ff87c498fd5a0ab93e52e0, type: 3}
+  - Name: confetti
+    Texture: {fileID: 2800000, guid: ff4d31208d2d3c14fa65d80df4a1597b, type: 3}
+  Clips:
+  - Name: ui_hover
+    Clip: {fileID: 8300000, guid: ab63169e49c0fed49b6d64a5cd85819a, type: 3}
+  - Name: ui_click
+    Clip: {fileID: 8300000, guid: 1c89e7ccc5191c047bd2883a06e59ac4, type: 3}
+  - Name: ui_confirm
+    Clip: {fileID: 8300000, guid: 7b270794b34fcd942b863b183694af2f, type: 3}
+  - Name: ui_back
+    Clip: {fileID: 8300000, guid: 54ecbf89e31c6e84eb6a89163aa98b29, type: 3}
+  - Name: ui_error
+    Clip: {fileID: 8300000, guid: 86cd3cf92a42f37478d437b060ea002d, type: 3}
+  - Name: ui_open
+    Clip: {fileID: 8300000, guid: 3d4c94796236ff64780b93a4ffef3711, type: 3}
+  - Name: ui_close
+    Clip: {fileID: 8300000, guid: df8018410ee102249b3df015eb73b48c, type: 3}
+  - Name: ui_toggle
+    Clip: {fileID: 8300000, guid: 8a034d90582c3a647bf813db99176eb6, type: 3}
+  - Name: ui_slider
+    Clip: {fileID: 8300000, guid: b59697e682860a54a970eaa8e202b560, type: 3}
+  - Name: ui_coin
+    Clip: {fileID: 8300000, guid: 76b1591626db19f47af594b5a63995d5, type: 3}
+  - Name: ui_reveal
+    Clip: {fileID: 8300000, guid: 6d1d021ffd9cd2f43bd7c59539822e22, type: 3}
+  - Name: ui_notify
+    Clip: {fileID: 8300000, guid: c82d37390298ae24c9b9e699a48193cd, type: 3}
+  - Name: ui_type
+    Clip: {fileID: 8300000, guid: 324cbfbb3d01f07488268d20003ff5b1, type: 3}
+  - Name: sfx_bell
+    Clip: {fileID: 8300000, guid: 3855c90b439ef4544857b6125afebe80, type: 3}
+  - Name: sfx_bid
+    Clip: {fileID: 8300000, guid: d17669ffbdfa8da43b2a5ef156ed1a38, type: 3}
+  - Name: sfx_bid_big
+    Clip: {fileID: 8300000, guid: 8fde2d07c6811ea48ad0d62a074ff737, type: 3}
+  - Name: sfx_gavel
+    Clip: {fileID: 8300000, guid: 8353a9fe53d2bb84e8d17c4c2c0bb4ad, type: 3}
+  - Name: sfx_gavel_single
+    Clip: {fileID: 8300000, guid: 2638a857048bac244969387ac6ba73e6, type: 3}
+  - Name: sfx_unsold
+    Clip: {fileID: 8300000, guid: 18481b41fd64ef44cb5b99bd6e574d8b, type: 3}
+  - Name: sfx_tick
+    Clip: {fileID: 8300000, guid: 8eac8512cdc36e4479408ac84fc5e855, type: 3}
+  - Name: sfx_tick_final
+    Clip: {fileID: 8300000, guid: 839db1c12fd6e124eb37cfb37e97be88, type: 3}
+  - Name: sfx_reveal_ting
+    Clip: {fileID: 8300000, guid: c1d626c85c402b24ca43992e7bf10649, type: 3}
+  - Name: sfx_reveal_good
+    Clip: {fileID: 8300000, guid: 5c9456ed89612a14a970284914b758d5, type: 3}
+  - Name: sfx_reveal_bad
+    Clip: {fileID: 8300000, guid: 553b8e94da3b5444e88f179eb0504fc6, type: 3}
+  - Name: sfx_fanfare
+    Clip: {fileID: 8300000, guid: 5c4fc3b54d98f34448ed6d32cb8c31e3, type: 3}
+  - Name: sfx_ability
+    Clip: {fileID: 8300000, guid: 1cb3b760e9a87eb458a33bbfedeafd91, type: 3}
+  - Name: sfx_say
+    Clip: {fileID: 8300000, guid: 9fd5c3d3d9cd17d47a62cf373ad5b580, type: 3}
+  - Name: sfx_whoosh
+    Clip: {fileID: 8300000, guid: 57fa404aaf78b464f8afb4e67e47a15b, type: 3}
+  - Name: sfx_cards
+    Clip: {fileID: 8300000, guid: f16fef6e218f73544b3c0c719cebc516, type: 3}
+  - Name: sfx_coins
+    Clip: {fileID: 8300000, guid: 39bd2f3f43b81074796ae8511d8efd60, type: 3}
+  - Name: sfx_count
+    Clip: {fileID: 8300000, guid: 0115e5825f0e34b4fa09819fdd83c206, type: 3}
+  - Name: sfx_drumroll
+    Clip: {fileID: 8300000, guid: 733a3d9386f2afb48b869d46f09d711a, type: 3}
+  - Name: sfx_cymbal
+    Clip: {fileID: 8300000, guid: af07fc4acaf74884d9dc32d1bd0797f8, type: 3}
+  - Name: sfx_loan
+    Clip: {fileID: 8300000, guid: 384286c3621dd524693a31bf2daaebb5, type: 3}
+  - Name: sfx_win
+    Clip: {fileID: 8300000, guid: 756459914d6f4a64aba0947ec4848299, type: 3}
+  - Name: sfx_lose
+    Clip: {fileID: 8300000, guid: 80da6e2f34f634041a9c3b13ca64c104, type: 3}
+  - Name: sfx_throw
+    Clip: {fileID: 8300000, guid: 2135679456dc6bb41ac45b6d3cfb547c, type: 3}
+  - Name: sfx_thud
+    Clip: {fileID: 8300000, guid: 025a0365d9aa0064e8e42c2e8ec2cde9, type: 3}
+  - Name: sfx_splat
+    Clip: {fileID: 8300000, guid: 457eae4750e4fd047910bf2275fa3675, type: 3}
+  - Name: sfx_pop
+    Clip: {fileID: 8300000, guid: f2dea0b280b9027448aeecce57ef3ea4, type: 3}
+  - Name: sfx_slap
+    Clip: {fileID: 8300000, guid: 178c3c64a13a2904b888c3cdf54f737e, type: 3}
+  - Name: ui_chat
+    Clip: {fileID: 8300000, guid: 043628b0867339e43b85be5687e9e271, type: 3}
+  - Name: ui_mic_on
+    Clip: {fileID: 8300000, guid: d53bec20722ca554eacc5ae9cda3ce42, type: 3}
+  - Name: ui_mic_off
+    Clip: {fileID: 8300000, guid: 4d0996da9653cfe4d91b5c265912214a, type: 3}
+  - Name: crowd_ooh
+    Clip: {fileID: 8300000, guid: 7c3b0c6d9597cf84588fcf37e6b7b912, type: 3}
+  - Name: crowd_gasp
+    Clip: {fileID: 8300000, guid: 5c63b4495c13e044aab6bc50eb7c3403, type: 3}
+  - Name: crowd_applause
+    Clip: {fileID: 8300000, guid: f643b3deb7941c54790a87ffe7130e89, type: 3}
+  - Name: crowd_laugh
+    Clip: {fileID: 8300000, guid: 1240e487e8627c64194d8cbfbe7e4909, type: 3}
+  - Name: voice_0
+    Clip: {fileID: 8300000, guid: f779a58969cc5b9449bbe685f27e67ee, type: 3}
+  - Name: voice_1
+    Clip: {fileID: 8300000, guid: cbff983bcb7a1e5458afa8dfe41309c9, type: 3}
+  - Name: voice_2
+    Clip: {fileID: 8300000, guid: 5235c02b695580b4988fa5c1a5052d5c, type: 3}
+  - Name: voice_3
+    Clip: {fileID: 8300000, guid: 5a9be85d8483a2841a56b71e645e2c0d, type: 3}
+  - Name: voice_4
+    Clip: {fileID: 8300000, guid: f4a91ad8829aaff48bcaa1195fcc22bc, type: 3}
+  - Name: voice_5
+    Clip: {fileID: 8300000, guid: d366b7381441cbb43ada7910f4913f2f, type: 3}
+  - Name: voice_6
+    Clip: {fileID: 8300000, guid: 5a58dd8a110f6e14d9d368ac6983ca51, type: 3}
+  - Name: voice_7
+    Clip: {fileID: 8300000, guid: c6912b4d3c6ba354d8e2ca3a95c04070, type: 3}
+  - Name: voice_auctioneer
+    Clip: {fileID: 8300000, guid: 5dab8a9ba617c784198959393215183b, type: 3}
+  - Name: bgm_menu
+    Clip: {fileID: 8300000, guid: 20eed4a8ba81f8c48b138792005962a2, type: 3}
+  - Name: bgm_auction
+    Clip: {fileID: 8300000, guid: bcb14c2be59ac7a40a90d65c43dc9d9b, type: 3}
+  - Name: bgm_results
+    Clip: {fileID: 8300000, guid: 49b1af6b426e3364e94c461d31cdee6b, type: 3}
+  - Name: amb_room
+    Clip: {fileID: 8300000, guid: 9ec084f11341bcd49b6505f7144e37d6, type: 3}
+  Panel: {fileID: 11400000, guid: 96c0fdbae96e2b8459cb756ab7198bb8, type: 2}
+  Style: {fileID: 7433441132597879392, guid: b6c83749291aa754f9de741df4409cf8, type: 3}
+  UiFont: {fileID: 11400000, guid: b50cb08646ff17c458bed23938816a25, type: 2}
+  UiFontBold: {fileID: 11400000, guid: 70480449b5ce31840a701e8e7f0f8e8e, type: 2}
+  ParticleAdditive: {fileID: 2100000, guid: 697c8472c3e552d42a25ed2884b6fd40, type: 2}
+  ParticleConfetti: {fileID: 2100000, guid: c6fe34f6f2a41734887a239569d4e882, type: 2}

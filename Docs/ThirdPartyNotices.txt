@@ -1,0 +1,38 @@
+Bluff Auction — Third-Party Notices
+===================================
+
+This game includes the following third-party components. Their license texts
+are in the "Licenses" folder next to the game executable.
+
+Fonts
+-----
+Noto Sans KR / JP / SC / TC (Medium, Bold)
+    Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'
+    SIL Open Font License, Version 1.1 — Licenses/NotoSansCJK-OFL.txt
+
+Oswald (Bold)
+    Copyright (c) 2011-2012, Vernon Adams, with Reserved Font Name 'Oswald'
+    SIL Open Font License, Version 1.1 — Licenses/Oswald-OFL.txt
+
+Roboto Slab (Bold)
+    Font data copyright Google 2013
+    Apache License, Version 2.0 — Licenses/RobotoSlab-LICENSE.txt
+
+The fonts are used unmodified; Unity generates signed-distance-field atlases from
+them at runtime.
+
+Engine
+------
+Made with Unity. Unity is a trademark or registered trademark of Unity Technologies.
+
+Steam
+-----
+Steamworks.NET 2025.164.1
+    Copyright (c) 2013-2022 Riley Labrecque
+    MIT License — Licenses/SteamworksNET-LICENSE.txt
+Steam API (steam_api64.dll) from the Steamworks SDK
+    Copyright Valve Corporation. Redistributed under the Steamworks SDK Access Agreement.
+Steam and the Steam logo are trademarks and/or registered trademarks of Valve Corporation.
+
+Everything else (3D models, textures, sounds, music, characters and text) was
+made procedurally for this game and is part of Bluff Auction.

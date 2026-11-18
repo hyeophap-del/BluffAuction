@@ -1,0 +1,26 @@
+"AppBuild"
+{
+	"AppID" "__APPID__"
+	"Desc" "Bluff Auction __VERSION__"
+	"ContentRoot" "__CONTENT__"
+	"BuildOutput" "__OUTPUT__"
+	// Do not set live automatically: check the build in Steamworks first, then set it live there.
+	"SetLive" ""
+	"Preview" "0"
+	"Depots"
+	{
+		"__DEPOTID__"
+		{
+			"FileMapping"
+			{
+				"LocalPath" "*"
+				"DepotPath" "."
+				"recursive" "1"
+			}
+			// Steam launches the game itself; debug data is never shipped.
+			"FileExclusion" "steam_appid.txt"
+			"FileExclusion" "*_DoNotShip*"
+			"FileExclusion" "*.pdb"
+		}
+	}
+}
